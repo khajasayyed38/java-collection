@@ -23,4 +23,7 @@ public class HashMapImpl {
         Collection<Integer> values = map.values();
         System.out.println(values);
     }
+    public String hello(){
+        return "hello world";
+    }
 }
